@@ -18,25 +18,19 @@
     <ClCompile Include="Review.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="scanf.c">
+    <ClCompile Include="if1.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="operator1.c">
+    <ClCompile Include="if2.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="operator2.c">
+    <ClCompile Include="if3.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="operator3.c">
+    <ClCompile Include="if4.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="Quiz.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="operator4.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="operator5.c">
+    <ClCompile Include="switch1.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
